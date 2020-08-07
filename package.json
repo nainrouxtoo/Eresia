@@ -1,7 +1,8 @@
 {
   "name": "Eresia",
+  "author" : "Nainrouxtoo"
   "version": "1.0.0",
-  "description": "",
+  "description": "bot Eresia discord",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
